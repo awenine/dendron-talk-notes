@@ -2,7 +2,7 @@
 id: 32pfx6eaz2xv2s3ghw2odmj
 title: Dendron Setup
 desc: ''
-updated: 1697580332537
+updated: 1697581007253
 created: 1697579550208
 ---
 - command pallette
@@ -14,6 +14,9 @@ created: 1697579550208
 ![](/assets/images/2023-10-17-23-01-57.png)
 
 [[notes.dendron-setup.next-steps]]
+
+@author.mary-shelley
+
 
 
 
